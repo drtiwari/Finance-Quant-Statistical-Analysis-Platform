@@ -31,3 +31,7 @@
 <b>7. Seasonality Analysis:</b>
 
 ![](DEMOS/seasonality_analysis.gif) </br>
+
+<b>8. Market Inefficiency Analysis:</b>
+
+![](DEMOS/market_inefficiency.gif) </br>
