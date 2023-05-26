@@ -32,6 +32,6 @@
 
 ![](DEMOS/seasonality_analysis.gif) </br>
 
-<b>8. Market Inefficiency Analysis:</b>
+<b>8. Mean Reversion  Analysis:</b>
 
-![](DEMOS/market_inefficiency.gif) </br>
+![](DEMOS/mean_reversion.gif) </br>
