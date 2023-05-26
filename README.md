@@ -11,3 +11,7 @@
 <b>2. MultiFactor Screener:</b>
 
 ![Home Page](DEMOS/multifactor_stocks_screener.gif) </br>
+
+<c>3. MultiFactor Backtester:</b>
+
+![Home Page](DEMOS/multifactor_backtester.gif) </br>
