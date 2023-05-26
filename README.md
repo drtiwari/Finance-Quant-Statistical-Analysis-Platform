@@ -3,4 +3,4 @@
 
 Showcase GIFS
 <b>1. Home Page:</b>
-![Home Page](DEMOS/Home_page.gif) </br>
+![Home Page](DEMOS/home_page.gif) </br>
