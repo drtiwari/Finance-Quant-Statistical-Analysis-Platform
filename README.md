@@ -5,7 +5,9 @@
 <b>SHOWCASE GIFS</b> </br>
 
 <b>1. Home Page:</b>
+
 ![Home Page](DEMOS/home_page.gif) </br>
 
 <b>2. MultiFactor Screener:</b>
+
 ![Home Page](DEMOS/multifactor_stocks_screener.gif) </br>
