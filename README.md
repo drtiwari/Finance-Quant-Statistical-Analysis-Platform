@@ -32,14 +32,18 @@
 
 ![](DEMOS/seasonality_analysis.gif) </br>
 
-<b>8. Mean Reversion  Analysis:</b>
+<b>8. Mean Reversion Analysis:</b>
 
 ![](DEMOS/mean_reversion.gif) </br>
 
-<b>9. Pair Plotting  Analysis:</b>
+<b>9. Pair Plotting Analysis:</b>
 
 ![](DEMOS/pair_plotting.gif) </br>
 
-<b>9. Corelation  Analysis:</b>
+<b>9. Corelation Analysis:</b>
 
 ![](DEMOS/corelation_analysis.gif) </br>
+
+<b>10. PCA Analysis:</b>
+
+![](DEMOS/pca_analysis.gif) </br>
