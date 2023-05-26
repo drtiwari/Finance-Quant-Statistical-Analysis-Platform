@@ -12,6 +12,10 @@
 
 ![Home Page](DEMOS/multifactor_stocks_screener.gif) </br>
 
-<c>3. MultiFactor Backtester:</b>
+<b>3. MultiFactor Backtester:</b>
 
 ![Home Page](DEMOS/multifactor_backtester.gif) </br>
+
+<b>4. Patterns Analyzer:</b>
+
+![Home Page](DEMOS/chart_patterns.gif) </br>
