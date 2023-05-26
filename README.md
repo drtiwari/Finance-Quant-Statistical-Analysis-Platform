@@ -23,3 +23,7 @@
 <b>5. TriFactor Rank Analysis:</b>
 
 ![](DEMOS/trifactor_analysis.gif) </br>
+
+<b>6. Rotation Analysis:</b>
+
+![](DEMOS/rotation_analysis.gif) </br>
