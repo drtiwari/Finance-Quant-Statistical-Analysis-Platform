@@ -27,3 +27,7 @@
 <b>6. Rotation Analysis:</b>
 
 ![](DEMOS/rotation_analysis.gif) </br>
+
+<b>7. Seasonality Analysis:</b>
+
+![](DEMOS/seasonality_analysis.gif) </br>
