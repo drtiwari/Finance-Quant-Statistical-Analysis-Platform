@@ -35,3 +35,7 @@
 <b>8. Mean Reversion  Analysis:</b>
 
 ![](DEMOS/mean_reversion.gif) </br>
+
+<b>9. Pair Plotting  Analysis:</b>
+
+![](DEMOS/pair_plotting.gif) </br>
