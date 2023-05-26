@@ -6,16 +6,20 @@
 
 <b>1. Home Page:</b>
 
-![Home Page](DEMOS/home_page.gif) </br>
+![](DEMOS/home_page.gif) </br>
 
 <b>2. MultiFactor Screener:</b>
 
-![Home Page](DEMOS/multifactor_stocks_screener.gif) </br>
+![](DEMOS/multifactor_stocks_screener.gif) </br>
 
 <b>3. MultiFactor Backtester:</b>
 
-![Home Page](DEMOS/multifactor_backtester.gif) </br>
+![](DEMOS/multifactor_backtester.gif) </br>
 
 <b>4. Patterns Analyzer:</b>
 
-![Home Page](DEMOS/chart_patterns.gif) </br>
+![](DEMOS/chart_patterns.gif) </br>
+
+<b>5. TriFactor Rank Analysis:</b>
+
+![](DEMOS/trifactor_analysis.gif) </br>
