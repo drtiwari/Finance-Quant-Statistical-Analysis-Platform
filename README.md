@@ -7,7 +7,7 @@
 
 <b>1. Home Page:</b>
 
-![Home Page](https://github.com/drtiwari/Finance-Quant-Statistical-Analysis-Platform/blob/main/DEMOS/home_page.gif "Home Page") </br>
+![Home Page](./DEMOS/home_page.gif "Home Page") </br>
 
 
 
