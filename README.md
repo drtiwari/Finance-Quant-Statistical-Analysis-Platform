@@ -74,3 +74,5 @@
 <b>12. Pair Trading:</b>
 
 ![Pair Trading](https://github.com/drtiwari/Finance-Quant-Statistical-Analysis-Platform/blob/main/DEMOS/pair_trading.gif "Pair Trading") </br>
+
+**@ Ing. Amber Tiwari (PhD)**
