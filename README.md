@@ -7,7 +7,7 @@
 
 <b>1. Home Page:</b>
 
-![Home Page](./DEMOS/home_page.gif) </br>
+![Home Page]([./DEMOS/home_page.gif](https://raw.githubusercontent.com/drtiwari/Finance-Quant-Statistical-Analysis-Platform/main/DEMOS/home_page.gif "Home Page") </br>
 
 
 
