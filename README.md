@@ -7,7 +7,7 @@
 
 <b>1. Home Page:</b>
 
-![Home Page](./DEMOS/home_page.gif "Home Page") </br>
+![Home Page](./DEMOS/home_page.gif) </br>
 
 
 
